@@ -1,2 +1,2 @@
 # Aamazon-Clone
-![Amazon Clone](C:/Users/shubh/Downloads/screenshot.png)
+![Amazon Clone](/Users/shubh/Downloads/screenshot.png)
